@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<students>
+
+    <student>
+        <name>Rahul</name>
+        <age>20</age>
+        <course>CSE</course>
+        <city>Pune</city>
+    </student>
+
+    <student>
+        <name>Priya</name>
+        <age>19</age>
+        <course>IT</course>
+        <city>Mumbai</city>
+    </student>
+
+    <student>
+        <name>Amit</name>
+        <age>21</age>
+        <course>Mechanical</course>
+        <city>Nashik</city>
+    </student>
+
+    <student>
+        <name>Sneha</name>
+        <age>20</age>
+        <course>Electrical</course>
+        <city>Kolhapur</city>
+    </student>
+
+    <student>
+        <name>Rohan</name>
+        <age>22</age>
+        <course>Civil</course>
+        <city>Sangli</city>
+    </student>
+
+    <student>
+        <name>Pooja</name>
+        <age>19</age>
+        <course>ENTC</course>
+        <city>Satara</city>
+    </student>
+
+    <student>
+        <name>Karan</name>
+        <age>21</age>
+        <course>IT</course>
+        <city>Solapur</city>
+    </student>
+
+</students>
