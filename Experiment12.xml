@@ -1,16 +1,20 @@
-<?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="student.xsl"?>
-
-<students>
-    <student>
-        <name>Sanika</name>
-        <age>20</age>
-        <course>Computer Engineering</course>
-    </student>
-
-    <student>
-        <name>Riya</name>
-        <age>21</age>
-        <course>IT</course>
-    </student>
-</students>
+<html xmlns="http://www.w3.org/1999/xhtml"><head></head><body>
+<h2>Student Details</h2>
+<table border="1">
+<tbody><tr>
+<th>Name</th>
+<th>Age</th>
+<th>Course</th>
+</tr>
+<tr>
+<td>Sanika</td>
+<td>20</td>
+<td>Computer Engineering</td>
+</tr>
+<tr>
+<td>Riya</td>
+<td>21</td>
+<td>IT</td>
+</tr>
+</tbody></table>
+</body></html>
