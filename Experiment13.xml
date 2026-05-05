@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="Experiment13.xsl"?>
+
+<students>
+    <student>
+        <name>Sanika</name>
+        <rollno>101</rollno>
+        <marks>85</marks>
+    </student>
+
+    <student>
+        <name>Rahul</name>
+        <rollno>102</rollno>
+        <marks>35</marks>
+    </student>
+
+    <student>
+        <name>Priya</name>
+        <rollno>103</rollno>
+        <marks>60</marks>
+    </student>
+</students>
