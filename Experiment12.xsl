@@ -5,7 +5,7 @@
     <xsl:template match="/">
 
         <html>
-            <head>
+            <head> 
                 <title>Student Data</title>
 
                 <style>
