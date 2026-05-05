@@ -6,7 +6,7 @@
 
 <html>
 <head>
-    <title>Student Result</title>
+    <title>Student Result</title> 
 
     <style>
         body {
